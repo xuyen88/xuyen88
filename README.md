@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Xuyen 👋
+### Blockchain Technical Analyst | dApp Project Assessment Specialist
 
-<!--
-**xuyen88/xuyen88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience in monitoring SDLC (Software Development Life Cycle) for Web3 projects, auditing technical milestones, and ensuring smart contract integrity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Professional Focus
+- **Project Progress Evaluation:** Tracking milestones from Testnet to Mainnet.
+- **Technical Due Diligence:** Assessing smart contract code quality and documentation.
+- **Web3 Ecosystems:** In-depth knowledge of Ethereum, Layer 2s (Arbitrum, Optimism), and Modular Blockchains.
+- **Risk Management:** Identifying potential bottlenecks in dApp development and deployment.
+
+---
+
+## 🛠 Tech Stack & Tools
+- **Blockchain:** Solidity, Hardhat, Foundry, Etherscan, Tenderly.
+- **Analytics & Monitoring:** Dune Analytics, The Graph, GitHub Actions (CI/CD).
+- **Project Management:** Jira, Linear, Notion, GitHub Projects.
+- **Security Tools:** Slither, Mythril (Basic Analysis).
+
+
+---
+
+## 📜 Certifications & Education
+- **Education:** Bachelor of Advanced Diploma In Cloud & Cyber Security Management - FPT Jetking
+
+---
+
+## 📫 Connect with me
+Telegram: @XuyenDT
