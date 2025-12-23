@@ -23,7 +23,7 @@ Experience in monitoring SDLC (Software Development Life Cycle) for Web3 project
 ---
 
 ## 📜 Certifications & Education
-- **Education:** Bachelor of Advanced Diploma In Cloud & Cyber Security Management - FPT Jetking
+- **Education:** Bachelor of Advanced Diploma In Cloud & Cyber Security Management
 
 ---
 
